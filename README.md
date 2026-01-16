@@ -48,9 +48,15 @@ Each sample unit consists of a **“triplet”**:
 
 ### Dataset Sample Unit Structure
 
-![Sample Triplet Structure](figures/sample_triplet.png)
+![Sample Triplet Structure](figures/units.jpg)
 
 > *Figure 1. Illustration of a dataset sample unit consisting of an RGB image patch, a corresponding binary river mask, and georeferenced river width annotations along the extracted centerline.*
+
+### Representative Samples
+
+![Representative Samples](figures/Samples.jpg)
+
+> *Figure 2. Representative samples from the RiverWidth-HR Dataset. River-width information is overlaid on GF-2 optical remote sensing imagery, covering diverse geographic settings, multiple river-width scales, and a wide range of river morphologies.*
 
 ---
 

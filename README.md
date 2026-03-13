@@ -1,9 +1,15 @@
 # RiverWidth-HR-Dataset
 
 > **Important Notice**  
-> 🚨 **The RiverWidth-HR Dataset will be publicly released only after the associated paper is officially published.**  
-> This repository currently provides dataset documentation, structure specification, and sample access instructions.  
+> 🚨The river-mask data and the corresponding centerline–width annotation files for the entire dataset have been fully uploaded to this repository.
 
+However, due to GitHub’s limitations on individual file upload size (25 MB per file) and the overall storage capacity of the repository, it is not possible to upload all original RGB imagery associated with the dataset.
+
+To address this issue, we have uploaded a representative subset of the original RGB image patches to this repository so that users can understand the data structure and usage of the dataset.
+
+If the complete set of RGB imagery is required for research purposes, please feel free to contact the corresponding author: xintingzheng@whu.edu.cn
+
+We will be happy to provide the full dataset upon request.
 ---
 
 ## Overview
